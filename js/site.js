@@ -1,5 +1,5 @@
 var userAgent = navigator.platform,
-    fileHost = "http://popcorn.cdnjd.com/releases/";
+    fileHost = "./releases/";
 
 var mac = /Mac/,
     win = /Win/,
